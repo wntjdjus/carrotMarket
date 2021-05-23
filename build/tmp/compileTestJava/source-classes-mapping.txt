@@ -1,0 +1,8 @@
+mocarim/mocarim/MiracomApplicationTests.java
+ mocarim.mocarim.MiracomApplicationTests
+mocarim/mocarim/web/dto/HelloResponseDtoTest.java
+ mocarim.mocarim.web.dto.HelloResponseDtoTest
+mocarim/mocarim/web/HelloControllerTest.java
+ mocarim.mocarim.web.HelloControllerTest
+mocarim/mocarim/domain/item/ItemRepositoryTest.java
+ mocarim.mocarim.domain.item.ItemRepositoryTest

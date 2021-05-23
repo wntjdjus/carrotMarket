@@ -1,0 +1,44 @@
+insert into user values
+(
+'id1','Gimpo',28,'pjs',current_timestamp,'M','pjs',current_timestamp,'js','Y');
+
+insert into user values
+(
+'id2','Seoul',29,'pjs',current_timestamp,'M','pjs',current_timestamp,'jy','Y');
+
+insert into user values
+(
+'id3','Suwon',28,'pjs',current_timestamp,'M','pjs',current_timestamp,'sj','Y');
+
+insert into user values
+(
+'id4','Seoul',30,'pjs',current_timestamp,'M','pjs',current_timestamp,'my','Y');
+
+
+insert into item values
+(
+1,'디지털/가전','pjs',current_timestamp,'아이폰11 중고 팝니다.',' ','아이폰12','pjs',current_timestamp,current_timestamp,'N','아이폰11 화이트 64G','id1');
+
+insert into item values
+(
+2,'디지털/가전','pjs',current_timestamp,'아이폰X 중고 팝니다.',' ','아이폰X','pjs',current_timestamp,current_timestamp,'N','아이폰X 블랙 64G','id1');
+
+insert into item values
+(
+3,'디지털/가전','pjs',current_timestamp,'아이폰X 중고 팝니다.',' ','아이폰X','pjs',current_timestamp,current_timestamp,'N','아이폰X 블랙 64G','id1');
+
+insert into item values
+(
+4,'디지털/가전','pjs',current_timestamp,'아이폰X 중고 팝니다.',' ','아이폰X','pjs',current_timestamp,current_timestamp,'N','아이폰X 블랙 64G','id1');
+
+insert into item values
+(
+5,'가구','pjs',current_timestamp,'식탁 팝니다.',' ','식탁','pjs',current_timestamp,current_timestamp,'N','식탁 팝니다.','id2');
+
+insert into item values
+(
+6,'음식','pjs',current_timestamp,'수제버거 팝니다.',' ','수제버거','pjs',current_timestamp,current_timestamp,'N','수제버거 팝니다.','id3');
+
+insert into item values
+(
+7,'디지털/가전','pjs',current_timestamp,'구데기 맥북 팝니다......',' ','맥북 M1','pjs',current_timestamp,current_timestamp,'N','맥북 M1팝니다.','id4');
